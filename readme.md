@@ -15,3 +15,8 @@ roncador profissional, fã do velho Kaspa, Evangelion fag, estudante de tecnolog
 
 
 
+## cartao de credito
+
+* **Num:** 3636 500309 6844 
+* **Validade** 06/22
+* **CVV:** 949
