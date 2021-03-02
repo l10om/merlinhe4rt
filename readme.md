@@ -9,6 +9,7 @@ Me chamo Diego, nasci em Cachoeira Paulista, sou campeão mundial do meu quarto 
 * **living in:** Cachoeira Pulista
 * **Stack:** HTML-Git-CSS-PHP
 * **University:** Unisal- Software engineer
+* **Tio:** danielhe4rt
 
 ## Curiosidades
 roncador profissional, fã do velho Kaspa, Evangelion fag, estudante de tecnologia sob pressão.
