@@ -1,6 +1,6 @@
 ## Informação básica
 
-Me chamo Diego, nasci em Cachoeira Paulista, sou campeão mundial do meu quarto de [xadrez](http://google.com).
+Me chamo Diego, nasci em Cachoeira Paulista, sou campeão mundial do meu quarto de [xadrez](https://www.chess.com/member/magnuscarlsen).
 
 ## Informações específicas 
 
